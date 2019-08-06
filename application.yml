@@ -9,6 +9,6 @@ spring:
      name: microservercloud-config-dev
 ---
 spring:
-  profiles: text
+  profiles: test
   application:
     name: microservercloud-config-test
